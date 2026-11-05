@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-inventory-and-logistics-filament",
+  "capabilityKey": "planned:sap:inventory-and-logistics",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/sap-inventory-and-logistics-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/sap/nextjs/inventory-and-logistics.md",
+  "presentationPlan": "projects/sap/filament/inventory-and-logistics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
